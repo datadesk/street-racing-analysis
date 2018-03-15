@@ -1,0 +1,27 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[dev-packages]
+
+
+
+[packages]
+
+pandas = "*"
+geopandas = "*"
+rtree = "*"
+jupyter = "*"
+jupyterlab = "*"
+seaborn = "*"
+matplotlib = "*"
+squarify = "*"
+python-googlegeocoder = "*"
+
+
+[requires]
+
+python_version = "3.6"
